@@ -1,0 +1,134 @@
+{
+    "products" : [
+        {
+            "id" : 1,
+            "title" : "product 1",
+            "price" : 30,
+            "sale_price" : 25,
+            "description" : "lorem inpsum dolor sit amet",
+            "sizes" : ["SM", "M", "XL", "XXL"],
+            "images" : {
+                "featured" : "https://via.placeholder.com/80x80?text=product",
+                "thumbnail" : "https://via.placeholder.com/300x300?text=product",
+                "full" : "https://via.placeholder.com/1000x1000?text=product"
+            }
+        },
+        {
+            "id" : 2,
+            "title" : "product 1",
+            "price" : 40,
+            "sale_price" : 35,
+            "description" : "lorem inpsum dolor sit amet",
+            "sizes" : ["SM", "M", "XL", "XXL"],
+            "images" : {
+                "featured" : "https://via.placeholder.com/80x80?text=product",
+                "thumbnail" : "https://via.placeholder.com/300x300?text=product",
+                "full" : "https://via.placeholder.com/1000x1000?text=product"
+            }
+        },
+        {
+            "id" : 3,
+            "title" : "product 1",
+            "price" : 300,
+            "sale_price" : 250,
+            "description" : "lorem inpsum dolor sit amet",
+            "sizes" : ["SM", "M", "XL", "XXL"],
+            "images" : {
+                "featured" : "https://via.placeholder.com/80x80?text=product",
+                "thumbnail" : "https://via.placeholder.com/300x300?text=product",
+                "full" : "https://via.placeholder.com/1000x1000?text=product"
+            }
+        },
+        {
+            "id" : 4,
+            "title" : "product 1",
+            "price" : 330,
+            "sale_price" : 305,
+            "description" : "lorem inpsum dolor sit amet",
+            "sizes" : ["SM", "M", "XL", "XXL"],
+            "images" : {
+                "featured" : "https://via.placeholder.com/80x80?text=product",
+                "thumbnail" : "https://via.placeholder.com/300x300?text=product",
+                "full" : "https://via.placeholder.com/1000x1000?text=product"
+            }
+        },
+        {
+            "id" : 5,
+            "title" : "product 1",
+            "price" : 250,
+            "sale_price" : 250,
+            "description" : "lorem inpsum dolor sit amet",
+            "sizes" : ["SM", "M", "XL", "XXL"],
+            "images" : {
+                "featured" : "https://via.placeholder.com/80x80?text=product",
+                "thumbnail" : "https://via.placeholder.com/300x300?text=product",
+                "full" : "https://via.placeholder.com/1000x1000?text=product"
+            }
+        },
+        {
+            "id" : 6,
+            "title" : "product 1",
+            "price" : 200,
+            "sale_price" : 200,
+            "description" : "lorem inpsum dolor sit amet",
+            "sizes" : ["SM", "M", "XL", "XXL"],
+            "images" : {
+                "featured" : "https://via.placeholder.com/80x80?text=product",
+                "thumbnail" : "https://via.placeholder.com/300x300?text=product",
+                "full" : "https://via.placeholder.com/1000x1000?text=product"
+            }
+        },
+        {
+            "id" : 7,
+            "title" : "product 1",
+            "price" : 430,
+            "sale_price" : 400,
+            "description" : "lorem inpsum dolor sit amet",
+            "sizes" : ["SM", "M", "XL", "XXL"],
+            "images" : {
+                "featured" : "https://via.placeholder.com/80x80?text=product",
+                "thumbnail" : "https://via.placeholder.com/300x300?text=product",
+                "full" : "https://via.placeholder.com/1000x1000?text=product"
+            }
+        },
+        {
+            "id" : 81,
+            "title" : "product 1",
+            "price" : 270,
+            "sale_price" : 270,
+            "description" : "lorem inpsum dolor sit amet",
+            "sizes" : ["SM", "M", "XL", "XXL"],
+            "images" : {
+                "featured" : "https://via.placeholder.com/80x80?text=product",
+                "thumbnail" : "https://via.placeholder.com/300x300?text=product",
+                "full" : "https://via.placeholder.com/1000x1000?text=product"
+            }
+        },
+        {
+            "id" : 9,
+            "title" : "product 1",
+            "price" : 240,
+            "sale_price" : 225,
+            "description" : "lorem inpsum dolor sit amet",
+            "sizes" : ["SM", "M", "XL", "XXL"],
+            "images" : {
+                "featured" : "https://via.placeholder.com/80x80?text=product",
+                "thumbnail" : "https://via.placeholder.com/300x300?text=product",
+                "full" : "https://via.placeholder.com/1000x1000?text=product"
+            }
+        },
+        {
+            "id" : 10,
+            "title" : "product 1",
+            "price" : 500,
+            "sale_price" : 475,
+            "description" : "lorem inpsum dolor sit amet",
+            "sizes" : ["SM", "M", "XL", "XXL"],
+            "images" : {
+                "featured" : "https://via.placeholder.com/80x80?text=product",
+                "thumbnail" : "https://via.placeholder.com/300x300?text=product",
+                "full" : "https://via.placeholder.com/1000x1000?text=product"
+            }
+        }
+    ]
+}
