@@ -15,7 +15,7 @@
         },
         {
             "id" : 2,
-            "title" : "product 1",
+            "title" : "product 2",
             "price" : 40,
             "sale_price" : 35,
             "description" : "lorem inpsum dolor sit amet",
@@ -28,7 +28,7 @@
         },
         {
             "id" : 3,
-            "title" : "product 1",
+            "title" : "product 3",
             "price" : 300,
             "sale_price" : 250,
             "description" : "lorem inpsum dolor sit amet",
@@ -41,7 +41,7 @@
         },
         {
             "id" : 4,
-            "title" : "product 1",
+            "title" : "product 4",
             "price" : 330,
             "sale_price" : 305,
             "description" : "lorem inpsum dolor sit amet",
@@ -54,7 +54,7 @@
         },
         {
             "id" : 5,
-            "title" : "product 1",
+            "title" : "product 5",
             "price" : 250,
             "sale_price" : 250,
             "description" : "lorem inpsum dolor sit amet",
@@ -67,7 +67,7 @@
         },
         {
             "id" : 6,
-            "title" : "product 1",
+            "title" : "product 6",
             "price" : 200,
             "sale_price" : 200,
             "description" : "lorem inpsum dolor sit amet",
@@ -80,7 +80,7 @@
         },
         {
             "id" : 7,
-            "title" : "product 1",
+            "title" : "product 7",
             "price" : 430,
             "sale_price" : 400,
             "description" : "lorem inpsum dolor sit amet",
@@ -93,7 +93,7 @@
         },
         {
             "id" : 81,
-            "title" : "product 1",
+            "title" : "product 8",
             "price" : 270,
             "sale_price" : 270,
             "description" : "lorem inpsum dolor sit amet",
@@ -106,7 +106,7 @@
         },
         {
             "id" : 9,
-            "title" : "product 1",
+            "title" : "product 9",
             "price" : 240,
             "sale_price" : 225,
             "description" : "lorem inpsum dolor sit amet",
@@ -119,7 +119,7 @@
         },
         {
             "id" : 10,
-            "title" : "product 1",
+            "title" : "product 10",
             "price" : 500,
             "sale_price" : 475,
             "description" : "lorem inpsum dolor sit amet",
